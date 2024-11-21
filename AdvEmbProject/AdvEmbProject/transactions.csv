@@ -1,0 +1,8 @@
+Transaction_ID,User_ID,Transaction_type,Transaction_amount
+1,1,D,100
+2,1,W,10
+3,1,W,100
+1,1,W,20.00
+1,2,W,200.00
+1,1,D,50.00
+2,1,W,50.00
